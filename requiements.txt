@@ -1,0 +1,5 @@
+trdg==1.8.0
+numpy==1.26.4
+pillow==9.5.0
+opencv-python~=4.11.0.86
+lmdb==1.6.2

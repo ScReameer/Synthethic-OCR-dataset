@@ -1,0 +1,2 @@
+# Paste the texts here line by line. It will be processed and saved to the "processed_text.txt" file.
+# The script will also generate a vocabulary file at "./vocabulary.txt".
